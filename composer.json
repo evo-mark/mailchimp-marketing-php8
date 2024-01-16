@@ -1,23 +1,23 @@
 {
-    "name": "mailchimp/marketing",
-    "version": "3.0.80",
-    "description": "",
+    "name": "evo-mark/mailchimp-marketing-php8",
+    "version": "4.0.0",
+    "description": "PHP 8 compatible fork of the official PHP client for Mailchimp Marketing",
     "keywords": [
         "swagger",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://evomark.co.uk",
     "license": "proprietary",
     "authors": [
         {
             "name": "Mailchimp",
-            "homepage": "https://github.com/mailchimp/mailchimp-marketing-php"
+            "homepage": "https://github.com/evo-mark/mailchimp-marketing-php8"
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.2",
         "ext-curl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
